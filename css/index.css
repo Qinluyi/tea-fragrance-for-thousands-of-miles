@@ -187,6 +187,7 @@ html::-webkit-scrollbar{
 	line-height: 36px;
 	color: #fff;
 	font-family: 'Times New Roman', Times, serif;
+	font-size: 115%;
 	margin-bottom: 500px;
 }
  .info-list-content {
